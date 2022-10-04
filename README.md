@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @canjalal
-- 👀 I’m making websites and apps to help kids learn. That, random maps, conquering our personal barriers to social connection, and kitniyot liberation.
-- 🌱 I’m currently an enthusiast in Ruby, JavaScript, Ivrit, and web development
+- 👋 Hi, I’m @canjalal (Vince)
+- 👀 I’m making websites and apps to help people learn and make connections. That, random maps, conquering our personal barriers to social connection, and kitniyot liberation.
+- 🌱 I’m currently an enthusiast in JavaScript, React, Ivrit, and web development
 - 💞️ I’m looking to collaborate on making education accessible and building community feelings in tech
 - 📫 How to reach me ... the nearest desi restaurant in SF
 
