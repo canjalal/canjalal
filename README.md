@@ -1,4 +1,4 @@
-👋 Hi, I’m @canjalal (Vincent Shuali
+👋 Hi, I’m @canjalal (Vincent Shuali)
 ---
 - 👀 I make web applications to help people learn and connect with others. I'm also working to conquer society and personal barriers to social connection.
 - 🌱 I’m an enthusiast in Python/Django, Ruby on Rails, React.js, Express/Node.js, JavaScript/ES6+, and web development in general.
