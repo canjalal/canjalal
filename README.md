@@ -13,7 +13,7 @@ My primary area of interest is building connections, whether it's between electr
 
 Being a former physics professor, my focus is on creating a user experience that is accessible, intuitive, and enjoyable, constructed atop a sophisticated mathematical codebase. I thrive well in a team setting where I can bring my scientific expertise and technical communication to the fore, and where I can geek out about my love of foreign languages, vegetarian Indian food, community feelings, and maps.
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,express,postgres,py,rails,html,css,sass,git,linux,mongodb,regex,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,express,postgres,py,rails,html,css,sass,git,linux,mongodb,regex](https://skillicons.dev)
 
 <!---
 canjalal/canjalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
