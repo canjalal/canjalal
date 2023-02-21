@@ -1,7 +1,7 @@
 👋 Hi, I’m @canjalal (Vincent Shuali)
 ---
 - 👀 I make web applications to help people learn and connect with others. I'm also working to conquer society and personal barriers to social connection.
-- 🌱 I’m an enthusiast in React.js, Express/Node.js, JavaScript/ES6+ Python, Ruby on Rails, PostgreSQL, and web development in general.
+- 🌱 I’m an enthusiast in React.js, Express/Node.js, JavaScript/ES6+, TypeScript, Python, Flask, Ruby on Rails, PostgreSQL, and web development in general.
 - 💞️ I’m looking to collaborate on making education accessible and building community feelings in tech
 - 📫 How to reach me ... the nearest Indian restaurant in SF
 
