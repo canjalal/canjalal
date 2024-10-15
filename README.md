@@ -1,13 +1,13 @@
 👋 Hi, I’m @canjalal (Vincent Shuali)
 ---
-- 👀 I make web applications to help people learn and connect with others. I'm also working to conquer society and personal barriers to social connection.
-- 🌱 I’m an enthusiast in React.js, Express/Node.js, JavaScript/ES6+, TypeScript, Python, Flask, SQL, and web development in general.
-- 💞️ I’m looking to collaborate on making education accessible and building community feelings in tech
+- 👀 I make web applications to help people learn and connect with others. I'm also working to conquer barriers to social connection, both societal and personal.
+- 🌱 I’m an enthusiast in Ruby on Rails, React.js, Express/Node.js, JavaScript/ES6+, TypeScript, Python, Flask, SQL, and web development in general.
+- 💞️ I’m looking to collaborate on making education and healthcare accessible and building community feelings in tech
 - 📫 How to reach me ... at Ecstatic Dance or the nearest Indian restaurant in SF
 
-I'm a software engineer focused on web development technologies such as JavaScript, React, Redux, MongoDB, and PostgreSQL.
+I'm a software engineer focused on web development technologies such as Ruby on Rails, JavaScript, React, Redux, Flask, MongoDB, and PostgreSQL.
 
-I'm currently working on a Python Django backend for a San Francisco public works project. I recently worked on a MERN stack app that facilitates anonymous sharing of emotions and statuses. I've also recently created an interactive JavaScript tutorial that teaches graphs to pre-calculus students using the Chart.js library and a randomly generated functions composed of linked list nodes.
+I'm currently working on an app with SF Civic Tech for paraeducators to manage student IEPs, powered by Next.js and TypeScript. As Junior Software Engineer at CommonLit, I created featured text collections in their Library. I also was a main contributor to overhauling their English student assessment system, used by millions of teachers and students in the U.S.
 
 My primary area of interest is building connections, whether it's between electrical signals and beautiful graphs, or between humans of different backgrounds.
 
